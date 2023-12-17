@@ -1,7 +1,3 @@
-//https://www.youtube.com/watch?v=QDp8BZbwOqk&list=PLKhV30DUFqB5m_O-vRDIUbO_AtKaltKeO&index=146
-//review everything from begining 
-//if fali still post on github 
-
 
 //checked
 let canvas;
